@@ -1,0 +1,11 @@
+N.B.:
+1. This is a compiler based question.
+2. All inputs should be taken as Command line parameters and output should match example output format.
+3. There should not be any extra space or text.
+
+Q: Develop  C code  to count vowels and consonants in a string using pointer.
+
+Example –
+Input: Cisco
+Output: Vowel = 2 and Consonant = 3
+
