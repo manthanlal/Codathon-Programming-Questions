@@ -1,0 +1,10 @@
+N.B.:
+1. This is a compiler based question.
+2. All inputs should be taken as Command line parameters and output should match example output format.
+3. There should not be any extra space or text.
+
+Q: Write a program that accepts a positive integer ‘n’ as command line argument and reverses the order of its digits.
+
+Example:
+Input: 5467
+Output: 7645
