@@ -1,0 +1,12 @@
+N.B.:
+1. This is a compiler based question.
+2. All inputs should be taken as Command line parameters and output should match example output format.
+3. There should not be any extra space or text.
+
+Q: Find out whether the middle digit of an 3 digit input through command line is prime or not.
+
+Example – 
+Input: 323
+Output: prime 
+Input: 454
+Output: not prime.
