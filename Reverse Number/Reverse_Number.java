@@ -1,12 +1,12 @@
 class Reverse_Number {
     public static void main(String[] args) {
         int num = Integer.parseInt(args[0]);
-        int digit=0, reverse=0, numcpy = num;
+        int digit=0, reverse=0;
         if(args.length==1){
-            while(numcpy!=0){
-                digit = numcpy % 10;
+            while(num!=0){
+                digit = num % 10;
                 reverse = reverse * 10 + digit;
-                numcpy = numcpy/10;
+                num = num/10;
             }
             System.out.println(reverse);
         }
