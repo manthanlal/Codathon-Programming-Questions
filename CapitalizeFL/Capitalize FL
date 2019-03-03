@@ -1,0 +1,12 @@
+N.B.:
+1. This is a compiler based question.
+2. All inputs should be taken as Command line parameters and output should match example output format.
+3. There should not be any extra space or text.
+
+Q. Capitalize first and last letter of an input string.
+
+Example –
+Input:  Aditya
+Output:   AdityA
+Input:  aditya
+Output:   AdityA
